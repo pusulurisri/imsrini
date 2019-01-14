@@ -1,0 +1,13 @@
+---
+label: portfolio
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+- type: textarea
+  default: dsfdds
+- type: textarea
+  name: heading_goeshere
+  label: Heading goeshere
+  description: heading_goeshere
+  default: dfdsfdssdfds
